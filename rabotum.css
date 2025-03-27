@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,100..1000&display=swap');
+
+/* 1. Заголовки */
+.heading-style {
+  font-family: 'Roboto Flex', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 100%;
+  text-transform: uppercase;
+  font-stretch: 31%;
+  letter-spacing: -0.01em;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  font-variation-settings: 'GRAD' 0, 'XOPQ' 175, 'XTRA' 468, 'YOPQ' 79, 'YTAS' 750, 'YTDE' -203, 'YTFI' 738, 'YTLC' 514, 'YTUC' 725, 'slnt' 0, 'opsz' 23;
+}
+
+/* 2. Вкладки */
+.tab-style {
+  font-family: 'Roboto Flex', sans-serif;
+  font-weight: 627;
+  font-size: 14px;
+  font-stretch: 91%;
+  font-variation-settings: 'GRAD' 150, 'XOPQ' 175, 'XTRA' 468, 'YOPQ' 79, 'YTAS' 750, 'YTDE' -203, 'YTFI' 738, 'YTLC' 514, 'YTUC' 712, 'slnt' 0;
+  text-transform: uppercase;
+  letter-spacing: -0.01em;
+}
+
+/* 3. Заголовки карточек */
+.card-heading-style {
+  font-family: 'Roboto Flex', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  font-stretch: 38%;
+  font-variation-settings: 'GRAD' -200, 'XOPQ' 119, 'XTRA' 468, 'YOPQ' 79, 'YTAS' 750, 'YTDE' -203, 'YTFI' 738, 'YTLC' 514, 'YTUC' 725, 'slnt' 0, 'opsz' 23;
+  text-transform: uppercase;
+}
